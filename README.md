@@ -2,7 +2,6 @@
 
 ## This page is dedicated for, collection of all relevant information of this exam
 
-### Helpfull Pages
 - [Official Exam Page][oep.md]
 
 [oep.md]: https://mapr.com/services/mapr-academy/mapr-certified-spark-developer
